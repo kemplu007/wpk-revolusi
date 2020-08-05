@@ -3,3 +3,4 @@ RESOLUSI KEMPLU
 - Keluar Kamar
 - Nyambi fiinishing Manggleng
 - selesaikan basic js dan php
+-mengenang css dan praktik praktik
